@@ -1,2 +1,2 @@
 # predavanja
-predavanja sa python fundamentals
+predavanja sa python fundamentals version1
